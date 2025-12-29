@@ -37,7 +37,7 @@ body {
     right: 5%;
     width: 400px;
     height: 500px;
-    background: url("/lain.webp");
+    background: url("lain.webp");
     background-size: contain;
     background-repeat: no-repeat;
     opacity: 0.15;
